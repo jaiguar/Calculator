@@ -1,7 +1,10 @@
 🚀 Project Highlight: Simple Calculator🚀
+
 🔹 Technologies Used:
 - HTML
 - CSS
+
+- 
 🔹 Features:
 - User-friendly interface
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
